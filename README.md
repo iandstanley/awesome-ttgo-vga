@@ -34,16 +34,22 @@ Official videos by the creator of FabGL library/emulator package.
 - [Multitasking - Multisession CP/M 3 (Plus) with ESP32 and FabGL](https://www.youtube.com/watch?v=3UevsxMQZ5w)
 
 ### IBM PC emulation
+- [How to install ESP32 IBM PC Emulator](https://www.youtube.com/watch?v=upgogkPwG6E)
 - [IBM-PC on ESP32 with FabGL](https://www.youtube.com/watch?v=cdloLKSRUvo)
-
 - [IBM PC on ESP32 with FabGL - Part I (FreeDOS + GWBasic + QBASIC)](https://www.youtube.com/watch?v=3I1U2nEoxIQ)
-- 
+- [IBM PC on ESP32 with FabGL - Part II (FreeDOS + DOS Developing Tools)](https://www.youtube.com/watch?v=eM4TYgdEDlo)
+- [IBM PC on ESP32 with FabGL - Part III (Windows 3.0, MS Word, MS Excel)](https://www.youtube.com/watch?v=LdpbAHw_-Do)
+- [IBM PC on ESP32 with FabGL - Part IV (Flight Simulator, SimCity, Word, Works, FoxPro)](https://www.youtube.com/watch?v=UwWX2_GvtDs)
+- [IBM PC on ESP32 with FabGL - Part V (MS-DOS 3.31)](https://www.youtube.com/watch?v=obfJ-_M11k8)
 - [IBM PC on ESP32 with FabGL - Part VI (Linux ELKS)](https://www.youtube.com/watch?v=Tr2yMjrgP8o)
 - [IBM PC on ESP32 with FabGL - Part VII (CP/M 86 + Turbo Pascal + MBASIC)](https://www.youtube.com/watch?v=wVznN6Dw-aU)
 
 ### Vic20 emulation
 - [FabGL embedded free VIC20 games](https://www.youtube.com/watch?v=ZW427HVWYys)
 
+### Other videos
+- [ESP32 Text to Speech (fabgl)](https://www.youtube.com/watch?v=zN-SyLL_pBQ)
+- [Graphics User Interface - GUI with ESP32 (FabGL library)](https://www.youtube.com/watch?v=84ytGdiOih0)
 
 # TTTGO VGA32 reviews
 - [TTGO ESP32 VGA32 #13d FabGL Library Firmware PC Emulator MS DOS 6 22 HDD](https://www.youtube.com/watch?v=crxHK_7ZZXc)
@@ -52,11 +58,13 @@ Official videos by the creator of FabGL library/emulator package.
 - [VGA on an ESP32? Cheap and easy!](https://www.youtube.com/watch?v=Kz9D9lpATwg)
 - [Lilygo TTGO VGA32 Controller Unbox and Example Sketches](https://www.youtube.com/watch?v=jQw44-v6kv4)
 - [ESP32 Game Console Audio](https://www.youtube.com/watch?v=MOoKQnWF4OY)
+- [The Ghost PC](https://www.youtube.com/watch?v=v3NXwyRXKwQ)
 
 
 # FabGL board operating system
 - [FabGL by Fabrizio Di Vittorio](https://github.com/fdivitto/FabGL)
 - [FabGL Homepage](http://www.fabglib.org/)
+- [Graphics User Interface - GUI with ESP32 (FabGL library)](https://www.youtube.com/watch?v=84ytGdiOih0)
 
 
 # Using the TTGO VGA32 board as a terminal
@@ -83,10 +91,12 @@ Official videos by the creator of FabGL library/emulator package.
 ### CP/M 3 
 - [Multitasking - Multisession CP/M 3 (Plus) with ESP32 and FabGL](https://www.youtube.com/watch?v=3UevsxMQZ5w)
 
-### CPM/M 86
+### CP/M 86
 - [IBM PC on ESP32 with FabGL - Part VII (CP/M 86 + Turbo Pascal + MBASIC)](https://www.youtube.com/watch?v=wVznN6Dw-aU)
 
-### MSDOS and clones
+
+# Utilities for ESP32
+- [I made Kilo text editor port to esp32 with FabGL](https://www.youtube.com/watch?v=74_XJ8f4MvY)
 
 
 # Emulating Hardware on the TTGO VGA32 board
@@ -107,7 +117,12 @@ Official videos by the creator of FabGL library/emulator package.
 - [Last Mission in real TTGO VGA32 1.2 (without psram)](https://www.youtube.com/watch?v=bvemwxvgysk)
 - [IBM PC / Windows on a Microcontroller?](https://www.youtube.com/watch?v=56SvxxWzKhA)
 - [TTGO VGA32 IBM PC XT](https://www.youtube.com/watch?v=wDbpqXIRzZQ)
-- 
+- [TTGO VGA32 XT emulator (minimal RAM)](https://www.youtube.com/watch?v=MCjnC1LUoW0)
+- [Goody 8086 TTGO VGA32 v1.2](https://www.youtube.com/watch?v=-woF3qlxIgQ)
+- [Arkanoid in TTGO VGA32 with only 12 KB SRAM](https://www.youtube.com/watch?v=J6RhexckYXA)
+- [Real Fake86 TTGO VGA32 v1.2 with sound](https://www.youtube.com/watch?v=L8r3D8fdL1o)
+- [Paku Paku in real ESP32 (TTGO VGA32 v1.2)](https://www.youtube.com/watch?v=GzbG932c71Q)
+- [Bonus - Smallest Dos Computer](https://www.youtube.com/watch?v=pnJf-bvSfHw)
 
 
 
@@ -120,6 +135,7 @@ Youtube:
 - [Prince Of Persia in CPC TTGO VGA32 ESP32](https://www.youtube.com/watch?v=LAS3A6X4WJ)
 - [464 CPC Emulator on TTGO VGA32](https://www.youtube.com/watch?v=_3QWmjH6noc)
 - [TTGO VGA32 amx mouse CPC](https://www.youtube.com/watch?v=wtiaPTKRBYY)
+- [CPC EMU ESP32 TTGO VGA32 ROM Games](https://www.youtube.com/watch?v=TI8s1bZf2LI)
 
 
   
@@ -137,12 +153,17 @@ Youtube:
 - [ZX Spectrum 128K (no PSRAM) emulator in TTGO VGA32](https://www.youtube.com/watch?v=3kKV68VMI-M)
 - [TTGO VGA32 without PSRAM 128, +2A, +3 and +3E](https://www.youtube.com/watch?v=h3OwAP9jFvo)
 - [TTGO VGA32(without psram) BASIC 128K and detect +3](https://www.youtube.com/watch?v=Z35d9wTuSCU)
-  
+- [TTGO VGA32 Spectrum WIFI load SNA](https://www.youtube.com/watch?v=xA9sLEvXeUI)
+- [Border effects in TTGO VGA32 (ESP32) ZX Spectrum emulator](https://www.youtube.com/watch?v=-EzuZAGtiZQ)
+
+
 
 
 
 ### ZX81 emulation
 - [zx81 emulator in TTGO VGA32](https://www.youtube.com/watch?v=TP1LB-TgL7U)
+- [ZX81 TTGO VGA32 v1.2 (public version)](https://www.youtube.com/watch?v=nFVNEgNH5RE)
+- [FabGL VGA32 with MECUMEesp81 ZX81 emulator playing 1k Chess](https://www.youtube.com/watch?v=0a9QaWHoNKA)
 
 ### Vic20 emulation
 - [FabGL embedded free VIC20 games](https://www.youtube.com/watch?v=ZW427HVWYys)
@@ -179,6 +200,7 @@ Youtube:
 
 Youtube:
 - [ESP32 Acorn Electron (no psram)](https://www.youtube.com/watch?v=Nh3W_6kOlG4)
+- [Acorn Electron TTGO VGA32](https://www.youtube.com/watch?v=f_izdyP4gS8)
 
 
 ### Uzebox emulation
@@ -187,6 +209,9 @@ Youtube:
 Youtube:
 - [Uzebox port TTGO VGA32](https://www.youtube.com/watch?v=FOyyOquksqk)
 - [UZEBOX real TTGO VGA32 12 fps (no psram)](https://www.youtube.com/watch?v=2DmVumkmnCU)
+
+### Vectrex emulation
+- [Vectrex in ESP32 TTGO VGA32](https://www.youtube.com/watch?v=pJX1VhIOsV8)
 
 ### Chip8 emulation
 - [Tiny Chip8 port ESP32](https://github.com/rpsubc8/ESP32TinyChip8)
@@ -222,4 +247,10 @@ Youtube:
 - [TTGO ESP32 VGA32 #11 FabGL Library Firmware Network Terminal Telnet](https://www.youtube.com/watch?v=BizrWXH1ad8)
 - [TTGO ESP32 VGA32 #13j FabGL Library Firmware Linux ELKS 0 4 0 Floppy](https://www.youtube.com/watch?v=pSmAN4VB6rc)
 - [TTGO ESP32 VGA32 #13c FabGL Library Firmware PC Emulator MS DOS 3 31 Floppy](https://www.youtube.com/watch?v=zGMcrE2YZI4)
-- [TTGO ESP32 VGA32 #05 FabGL Library Firmware Ansi VT100 Terminal](https://www.youtube.com/watch?v=D9blWkH92W0)
+- [TTGO ESP32 VGA32 #05 FabGL Library Firmware Ansi VT100 Terminal](https://www.youtube.com/watch?v=D9blWkH92W0) 
+- [TTGO ESP32 VGA32 #13f 2 FabGL Library Firmware Windows 3 0 HDD](https://www.youtube.com/watch?v=8Tu4IV0tnJQ)
+- [TTGO ESP32 VGA32 #13g 2 FabGL Library Firmware GEM 3 13 HDD](https://www.youtube.com/watch?v=6cCzjny_TVQ)
+ 
+
+### Greek?
+- [TTGO VGA32 ZX Spectrum emulation σε ESP32. -o Ζμπέχτρουμ του φτωχού! Poor man's ZX Spectrum](https://www.youtube.com/watch?v=xahWvUY2pWc)
