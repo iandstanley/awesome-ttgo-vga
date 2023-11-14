@@ -166,6 +166,7 @@ Youtube:
 - [ESpectrum emulator, Spanish? Use Google Translate](https://zxespectrum.speccy.org/)
 - [TTGO VGA32 without PSRAM 128, +2A, +3 and +3E, Spanish?](http://retrowiki.es/viewtopic.php?f=86&t=200036016&start=32)
 - [ESP32TinyZX Spectrum](https://github.com/rpsubc8/ESP32TinyZXSpectrum)
+- [esp32-z80emu emulator](https://github.com/abelykh0/esp32-z80emu)
 
 Youtube:
 - [10$ ZX spectrum on ESP32, PS2 keyboard, VGA output, no audio, crackle](https://www.youtube.com/watch?v=8S0wn_HtRgg)
