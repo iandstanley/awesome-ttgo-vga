@@ -63,17 +63,35 @@ Official videos by the creator of FabGL library/emulator package.
 
 
 ### IBM PC emulation
+- [ESP32TinyFake86](https://github.com/rpsubc8/ESP32TinyFake86)
 
 
 
 ### Amstrad CPC emulation
+- [464 CPC Emulator on TTGO VGA32](https://www.youtube.com/watch?v=_3QWmjH6noc)
+- [Tiny AMSTRAD CPC port ESP32](https://github.com/rpsubc8/ESP32TinyCPC)
 
+- [Public Test AMSTRAD CPC 464 TTGO VGA32 v1.2 Emulator](https://www.youtube.com/watch?v=mmrR4EtUSow)
+- [Prince Of Persia in CPC TTGO VGA32 ESP32](https://www.youtube.com/watch?v=LAS3A6X4WJ)
+- [464 CPC Emulator on TTGO VGA32](https://www.youtube.com/watch?v=_3QWmjH6noc)
+
+  
 
 ### Spectrum emulation
+- [10$ ZX spectrum on ESP32, PS2 keyboard, VGA output](https://github.com/rampa069/ZX-ESPectrum)
+- [ESpectrum emulator, Spanish? Use Google Translate](https://zxespectrum.speccy.org/)
+- [TTGO VGA32 without PSRAM 128, +2A, +3 and +3E, Spanish?](http://retrowiki.es/viewtopic.php?f=86&t=200036016&start=32)
+- [ESP32TinyZX Spectrum](https://github.com/rpsubc8/ESP32TinyZXSpectrum)
+
+Youtube:
 - [10$ ZX spectrum on ESP32, PS2 keyboard, VGA output, no audio, crackle](https://www.youtube.com/watch?v=8S0wn_HtRgg)
 - [ZX Spectrum TTGO VGA32 with FabGL, no audio](https://www.youtube.com/watch?v=4CiVkBaFn2w)
 - [~10 euros ZX Spectrum Emulator (English subtitles)](https://www.youtube.com/watch?v=GXHBrQVTfBw)
 - [ZX Spectrum 128K (no PSRAM) emulator in TTGO VGA32](https://www.youtube.com/watch?v=3kKV68VMI-M)
+- [TTGO VGA32 without PSRAM 128, +2A, +3 and +3E](https://www.youtube.com/watch?v=h3OwAP9jFvo)
+- 
+
+
 
 ### ZX81 emulation
 
@@ -84,21 +102,36 @@ Official videos by the creator of FabGL library/emulator package.
 
 
 ### Commodore C64 emulation
+- [Tiny C64 port ESP32](https://github.com/rpsubc8/ESP32TinyC64)
 
 
 ### GameBoy emulation 
+- [ESP32 Gameboy emulator](https://github.com/rpsubc8/esp32gameboy)
+
+
+### NES emulation
+- [Tiny NES emulator](https://github.com/rpsubc8/ESP32TinyNesMasterhttps://www.youtube.com/watch?v=pdLanTph3GU))
+- [TTGO VGA32 v1.2 NES emulator](https://www.youtube.com/watch?v=_MBXnjj_zJM)
+
+Youtube:
+- [ESP32 TinyBasic II VGA and NES emulator on TV](
 
 
 ### Acorn Electron emulation
-
+- [ESP32Tiny Elkulator](https://github.com/rpsubc8/ESP32TinyElkulator)
 
 
 ### Uzebox emulation
+- [Tiny Uzebox](https://github.com/rpsubc8/ESP32TinyUzebox)
 
+### Chip8 emulation
+- [Tiny Chip8 port ESP32](https://github.com/rpsubc8/ESP32TinyChip8)
 
+Youtube:
+- [Tiny Chip8 port ESP32](https://www.youtube.com/watch?v=4xpE6p1qBoo)
 
-
-
+### Arcade emulation
+- [Arcade Pacman](https://github.com/rpsubc8/ESP32TinyPAC)
 
 # Games on the TTGO VGA32 board
 
