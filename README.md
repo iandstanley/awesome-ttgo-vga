@@ -3,6 +3,8 @@ Here is a list of TTGO-VGA related stuff.
 
 Contributions are welcome just create a pull request with the changes please keep the format consistent.
 
+# OFFICIAL pages (TTGO VGA32 & FabGL)
+- [LilyGo VGA32 GitHub page](https://github.com/Xinyuan-LilyGO/VGA32)
 
 # OFFICIAL Videos by Fabrizio Di Vittorio
 Official videos by the creator of FabGL library/emulator package.
@@ -50,6 +52,11 @@ Official videos by the creator of FabGL library/emulator package.
 ### Other videos
 - [ESP32 Text to Speech (fabgl)](https://www.youtube.com/watch?v=zN-SyLL_pBQ)
 - [Graphics User Interface - GUI with ESP32 (FabGL library)](https://www.youtube.com/watch?v=84ytGdiOih0)
+
+# Cases for the TTGO VGA32
+- [TTGO VGA32 V1.4 Case by firepower9966, Thingiverse](https://www.thingiverse.com/thing:4675382)
+- [TTGO VGA32 V1.4 Case by rugby20, Thingiverse](https://www.thingiverse.com/thing:4774069)
+- [small box case for LILYGO TTGO VGA32 V1.4 by n602, Thingiverse](https://www.thingiverse.com/thing:4570375/files)
 
 # TTTGO VGA32 reviews
 - [TTGO ESP32 VGA32 #13d FabGL Library Firmware PC Emulator MS DOS 6 22 HDD](https://www.youtube.com/watch?v=crxHK_7ZZXc)
