@@ -16,8 +16,13 @@ Official videos by the creator of FabGL library/emulator package.
 - [How to install esp32 TTGO Micro 32 board + FabGL to Arduino IDE and setup Commodore VIC-20 emulator](https://www.youtube.com/watch?v=FXp4WoD9i7E)
 
 ### Serial Terminal
+- [Using pins as rx/tx for softwareserial](https://github.com/Xinyuan-LilyGO/TTGO-T-Display/issues/12)
+
+Youtube:
 - [FabGL ESP32 serial terminal: Playing with resolutions, fonts and colors, older model](https://www.youtube.com/watch?v=VylUOAgu9to)
 - [FabGL Terminal with Raspberry Pi](https://www.youtube.com/watch?v=hcSdaMe2ejg)
+- [Change the button function to call up the emulation menu on the serial port](https://hackaday.com/2020/08/20/esp32-altair-emulator-gets-split-personality/)
+- [Using ESP32/VGA32 Terminal for Z80-MBC2](https://www.instructables.com/Using-ESP32VGA32-Terminal-for-Z80-MBC2/)
 
 ### Network Terminal (Telnet)
 - [telnet telehack using TTGO VGA32_1.4 w/ FabGL NetworkTerminal VT100](https://www.youtube.com/watch?v=D1olWSPX-cc)
@@ -57,7 +62,7 @@ Official videos by the creator of FabGL library/emulator package.
 - [TTGO VGA32 V1.4 Case by firepower9966, Thingiverse](https://www.thingiverse.com/thing:4675382)
 - [TTGO VGA32 V1.4 Case by rugby20, Thingiverse](https://www.thingiverse.com/thing:4774069)
 - [small box case for LILYGO TTGO VGA32 V1.4 by n602, Thingiverse](https://www.thingiverse.com/thing:4570375/files)
-
+- [Cases for the LilyGo VGA32](https://www.yeggi.com/q/lilygo+ttgo+vga32+v1+1)
 # TTTGO VGA32 reviews
 - [TTGO ESP32 VGA32 #13d FabGL Library Firmware PC Emulator MS DOS 6 22 HDD](https://www.youtube.com/watch?v=crxHK_7ZZXc)
 - [TTGO VGA32 (ESP32)](https://www.youtube.com/watch?v=-ewkBGOnL1k)
@@ -83,8 +88,15 @@ Official videos by the creator of FabGL library/emulator package.
 
 # Operating Systems on the TTGO VGA32 board
 
+### RUNCPM
+- [Flashing RunCPM under Linux or Windows on the TTGO VGA32 with esptool](https://lehwalder.wordpress.com/2021/07/18/flashing-runcpm-under-linux-on-the-ttgo-vga32-with-esptool/)
+- [RunCPM (v5.1) on the TTGO VGA32 (ESP32 with VGA and PS2-Keyb.)](https://groups.google.com/g/comp.os.cpm/c/pQf_MBUUC3g?pli=1)
+
 
 ### CP/M 2.2
+-[Flashing RunCPM under Linux or Windows on the TTGO VGA32 with esptool](https://lehwalder.wordpress.com/2021/07/18/flashing-runcpm-under-linux-on-the-ttgo-vga32-with-esptool/)
+
+Youtube:
 - [Altair 8800 with FabGL (ESP32) - CP/M Text Games](https://www.youtube.com/watch?v=y0opVifEyS8)
 - [Altair 8800 with FabGL (ESP32) - CP/M Compiling C programs](https://www.youtube.com/watch?v=v7eKlSkGKWw)
 - [Altair 8800 with FabGL (ESP32) - CP/M Formatting C and D - MBASIC test](https://www.youtube.com/watch?v=yiSvToO-7sc)
@@ -93,7 +105,7 @@ Official videos by the creator of FabGL library/emulator package.
 - [Altair 8800 with FabGL (ESP32) - CP/M Turbo Pascal 3](https://www.youtube.com/watch?v=6bASIWiZPp8)
 - [TTGO VGA32 - Tiny ESP32 FabGL Development Board](https://www.youtube.com/watch?v=sCctddhJ8RA)
 - [Altair 8800. Make your own on a budget!](https://www.youtube.com/watch?v=kynvgWg0MmU)
-
+- [Retro CP/M Stand Alone Emulator](https://www.instructables.com/Retro-CPM-Stand-Alone-Emulator/)
 
 ### CP/M 3 
 - [Multitasking - Multisession CP/M 3 (Plus) with ESP32 and FabGL](https://www.youtube.com/watch?v=3UevsxMQZ5w)
@@ -102,9 +114,11 @@ Official videos by the creator of FabGL library/emulator package.
 - [IBM PC on ESP32 with FabGL - Part VII (CP/M 86 + Turbo Pascal + MBASIC)](https://www.youtube.com/watch?v=wVznN6Dw-aU)
 
 
-# Utilities for ESP32
+# Utilities for TTGO VGA32
 - [I made Kilo text editor port to esp32 with FabGL](https://www.youtube.com/watch?v=74_XJ8f4MvY)
 
+# Programming on TTGO VGA32
+-[ESP32-Basic-vga](https://github.com/fg1998/ESP32-Basic-vga)
 
 # Emulating Hardware on the TTGO VGA32 board
 
@@ -195,7 +209,7 @@ Youtube:
 
 
 ### NES emulation
-- [Tiny NES emulator](https://github.com/rpsubc8/ESP32TinyNesMasterhttps://www.youtube.com/watch?v=pdLanTph3GU))
+- [Tiny NES emulator](https://github.com/rpsubc8/ESP32TinyNesMaster)
 - [TTGO VGA32 v1.2 NES emulator](https://www.youtube.com/watch?v=_MBXnjj_zJM)
 
 Youtube:
@@ -226,10 +240,17 @@ Youtube:
 Youtube:
 - [Tiny Chip8 port ESP32](https://www.youtube.com/watch?v=4xpE6p1qBoo)
 
+### Oric emulation
+- [Oric VGA32](https://github.com/OulanB/OricVGA32/)
+- [Oric VGA32 1.0 release](https://github.com/OulanB/OricVGA32/wiki)
+
+# Games on the TTGO VGA32 board
+See also games in the various emulated systems listed here
+
 ### Arcade emulation
 - [Arcade Pacman](https://github.com/rpsubc8/ESP32TinyPAC)
 
-# Games on the TTGO VGA32 board
+
 
 
 # Foreign Language Videos
